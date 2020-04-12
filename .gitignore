@@ -130,3 +130,5 @@ dmypy.json
 
 #PyCharm
 .idea
+
+.police-department-calls-for-service.json
